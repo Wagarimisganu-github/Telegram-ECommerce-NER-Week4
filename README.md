@@ -67,8 +67,8 @@ Telegram-ECommerce-NER/
 ## Installation and Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/Alpha-Mintamir/Telegram-ECommerce-NER.git
-   cd Telegram-ECommerce-NER
+   git clone https://github.com/Wagarimisganu-github/Telegram-ECommerce-NER-Week4.git
+   cd Telegram-ECommerce-NER-week4
    ```
 2. Create a virtual environment (optional but recommended):
    ```
@@ -94,17 +94,8 @@ We experiment with the following models:
 - bert-base-multilingual-cased
 
 
-## Team Members
-
-- [Alpha Lencho ](https://github.com/Alpha-Mintamir)
-- [Olyad Temesgen](https://github.com/OL-YAD)
-- [Endekalu Simon](https://github.com/Endekalu777)
-- [Bereket Birhanu](https://github.com/Bereket-07)
-- [Ephrem M Merid](https://github.com/team-member-4)
 
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 - 10 Academy for providing the project requirements and guidance
